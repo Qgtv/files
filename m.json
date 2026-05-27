@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆推荐",
-            "name": "公众号|不会唱歌的鱼妖",
+            "name": "强哥TV|兄弟今天你看片了吗",
             "type": 3,
             "api": "csp_DouDouGuard",
             "searchable": 0,
